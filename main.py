@@ -8,7 +8,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hello, {name}')  # Press ⌘F8 to toggle the breakpoint.
     for i in range(3):
-        print('Counting. i = ', i)
+        print('Counting by 3s. i = ', i*3)
 
 
 # Press the green button in the gutter to run the script.
